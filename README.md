@@ -7,7 +7,7 @@ Because we find the weather here by running the code, not just in the boring way
 ---
 1. Clone my repository or download as a zip.
 2. Download the requirements "pip install requests"
-3. Run the main py by typing "python main.py" in the terminal.
+3. Run the main.py by typing "python main.py" in the terminal.
 4. Enter your city and **Boom!**, you will get the details in the terminal itself.
 ---
 
